@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/knoldus/Documents/os-health-report-genrator/target/scala-2.12/os-health-report-genrator_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/os-health-report-genrator/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/os-health-report-genrator/target/scala-2.12/classes/com/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/CheckUpImplementation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/os-health-report-genrator/target/scala-2.12/classes/com/knoldus/CheckUpImplementation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/HealthAnalyser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/os-health-report-genrator/target/scala-2.12/classes/com/knoldus/HealthAnalyser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/CheckUpImplementation$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/os-health-report-genrator/target/scala-2.12/classes/com/knoldus/CheckUpImplementation$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/FileMiner$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/os-health-report-genrator/target/scala-2.12/classes/com/knoldus/FileMiner$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/actorDataStructure.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/os-health-report-genrator/target/scala-2.12/classes/com/knoldus/actorDataStructure.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/actorDataStructure$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/os-health-report-genrator/target/scala-2.12/classes/com/knoldus/actorDataStructure$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/FileMiner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/os-health-report-genrator/target/scala-2.12/classes/com/knoldus/FileMiner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/CheckUpImplementation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/os-health-report-genrator/target/scala-2.12/classes/com/knoldus/CheckUpImplementation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
