@@ -1,4 +1,0 @@
-[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Documents/os-health-report-genrator/src/main/scala/com/knoldus/HealthAnalyser.scala:28:5: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
-[0m[[0m[33mwarn[0m] [0m[0m    futureResult[0m
-[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
